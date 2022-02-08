@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '30_zbutton_colorfull.dart';
 
-main() => runApp(MyApp());
+main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({Key key}) : super(key: key);

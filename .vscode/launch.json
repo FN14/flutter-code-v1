@@ -7,7 +7,7 @@
         {
             "name": "flutter_chapter01",
             "request": "launch",
-            "program": "lib/42_provider_state_manage.dart",
+            "program": "lib/47_timer.dart",
             "type": "dart"
         }
     ]

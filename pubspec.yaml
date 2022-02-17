@@ -40,6 +40,7 @@ dependencies:
   shared_preferences: ^0.5.3+4
   provider: ^4.3.3
   flutter_bloc: ^3.0.0
+  hydrated_bloc: ^3.0.0
 
 dev_dependencies:
   flutter_test:
@@ -101,6 +102,9 @@ flutter:
      - family: Milonga
        fonts:
          - asset: fonts/Milonga-Regular.ttf
+     - family: Lato
+       fonts:
+         - asset: fonts/Lato-Regular.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #

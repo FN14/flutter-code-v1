@@ -7,7 +7,7 @@
         {
             "name": "flutter_chapter01",
             "request": "launch",
-            "program": "lib/47_timer.dart",
+            "program": "lib/53_mvvm_architecture.dart",
             "type": "dart"
         }
     ]

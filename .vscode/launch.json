@@ -7,7 +7,7 @@
         {
             "name": "flutter_chapter01",
             "request": "launch",
-            "program": "lib/53_mvvm_architecture.dart",
+            "program": "lib/61_mobx_state_manage.dart",
             "type": "dart"
         }
     ]
